@@ -170,6 +170,6 @@ Licença das modificações deste repositório: *a definir*.
 
 ## Autoria
 
-- **Autor:** Yan, Universidade Federal de Roraima (UFRR)
-- **Orientador:** *[nome do orientador]*
-- **Contato:** *[e-mail ou perfil]*
+- **Autor:** Yan Teixeira, Universidade Federal de Roraima (UFRR)
+- **Orientador:** *Hebert Rocha*
+- **Contato:** *yan.teixeiras@gmail.com*
